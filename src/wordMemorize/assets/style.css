@@ -1,0 +1,18 @@
+.navbar-cus a {
+    text-decoration: none;
+    color: #444;
+    font-size: 18px;
+}
+.navbar-cus a.logo {
+    padding: 4px;
+    font-size: 20px;
+}
+.navbar-cus a:hover {
+    color: #000;
+}
+.nav {
+    padding: 5px;
+}
+.nav li {
+    margin: 0 15px;
+}
